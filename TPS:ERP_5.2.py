@@ -1,9 +1,3 @@
-import requests
-import jason
-x = requests.get('https://api.imgflip.com/get_memes')
-print(x)
-print(x.content)
-print(x.jason())
 prof = {}
 for i in range (2019,2022):
     print("year",i)

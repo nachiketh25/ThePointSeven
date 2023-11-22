@@ -1,1 +1,1 @@
-# dummy
+# cryptocurreny converter to USD
